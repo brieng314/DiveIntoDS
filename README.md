@@ -1,3 +1,1 @@
-This data set is from bike-sharing service and to EDA to understand the people's behavior with the data set. 
-
-This is another project to practice python and EDA. 
+This project is just a wide variaty of skills that I am learning to have more pracitce with python for data science. 
